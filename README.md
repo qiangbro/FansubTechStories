@@ -6,6 +6,4 @@ My Fansubbing Technology Stories · 有村花纯字幕组技术分享 字幕组�
 
 
 
-##2016年8月主题：TS片源的翻译前处理
-
-作为技术人员，拿到TS类型片源之后，应该对它做怎样的处理？怎样剪档、压制小档、提取生肉字幕？压制小档时需要注意哪方面的问题，以给翻译、后期人员带来方便？
+https://github.com/qiangbro/FansubTechStories/releases
